@@ -15,4 +15,4 @@ document.querySelector('#menu').onclick = (e) => {
     event.preventDefault();
 };
 
-alert ('website ini belum berfungsi sepenuhnya dan akan mengalami pembaruan seiring berjalannya waktu');
+// alert ('website ini belum berfungsi sepenuhnya dan akan mengalami pembaruan seiring berjalannya waktu');
