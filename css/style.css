@@ -310,6 +310,16 @@ body {
     gap: 1rem;
 }
 
+.portfolio-header a {
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-align: center;
+    color: var(--text);
+    margin: 2rem 0;
+    padding: 0 1rem;
+    text-decoration: none;
+}
+
 .portfolio-container h2 {
     font-size: 1.5rem;
     font-weight: 600;
